@@ -1,3 +1,8 @@
+/**
+ * Create a utils module with a function that receivea user id and returns a json With data pulled from the following json files
+ */
+
+
 const jFile=require('jsonfile')
 
 getUserData = (id)=>{
