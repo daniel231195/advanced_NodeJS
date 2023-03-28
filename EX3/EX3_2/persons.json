@@ -1,0 +1,26 @@
+{
+  "persons" : [
+    {"name" : "Avi",
+      "address" :
+      {
+        "city" : "Tel Aviv",
+        "street" :
+        {
+          "name" : "Herzel",
+          "no" : 23
+        }
+      }
+    },
+    {"name" : "Dana",
+      "address" :
+      {
+        "city" : "Eilat",
+        "street" :
+        {
+          "name" : "Begin",
+          "no" : 16
+        }
+      }
+    }
+  ]
+}

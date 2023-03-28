@@ -1,0 +1,16 @@
+{
+  "name": "trying",
+  "version": "1.0.0",
+  "description": "",
+  "main": "../../Two Sum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json": "^11.0.0",
+    "jsonfile": "^6.1.0"
+  }
+}
